@@ -1,4 +1,4 @@
-<h2 align="left">Hi!! My name is  Pranay and I'm an aspiring ML engineer, from Jaipur</h2>
+<h2 align="left">Hi!! My name is  Pranay and I'm an aspiring ML engineer, from Jaipur.</h2>
 
 ###
 
